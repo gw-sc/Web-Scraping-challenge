@@ -17,6 +17,8 @@ In this assignment, you will build a web application that scrapes various websit
 
 5. Push the above changes to GitHub.
 
+![mission_to_mars.png](Images/mission_to_mars.png)
+
 ## Instructions 
 
 The instructions for this assignment are divided into three parts: 
